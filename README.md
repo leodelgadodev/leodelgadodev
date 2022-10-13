@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋👀, I'm Leo</h1>
-<h3 align="center">I'm a passionate Software Developer and teacher from Buenos Aires, Argentina</h3>
+<h3 align="center">I'm a passionate Software Developer and Programming teacher from Buenos Aires, Argentina</h3>
 
 ___
 
