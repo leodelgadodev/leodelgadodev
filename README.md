@@ -1,11 +1,12 @@
 <h1 align="center">Hello there 👋👀, I'm Leo</h1>
-<h3 align="center">I'm a passionate Software Developer and Programming teacher from Buenos Aires, Argentina</h3>
+<h3 align="center">I'm a passionate Software Engineer and Programming teacher from Buenos Aires, Argentina</h3>
 
 ___
 
-- 🌱 I’m currently studying computer science at UNQ (Universidad Nacional de Quilmes).
-- 💼 I'm currently working as a freelance teacher at the moment, but feel free to contact me for any business inquiries.
-- 📫 You can reach me through linkedin or discord (down below).
+- 🌱 I’ve studied computer science at UNQ (Universidad Nacional de Quilmes).
+- 💼 I'm currently working at NaranjaX as a Senior Software Engineer, but feel free to contact me for any business inquiries.
+- 💼 I've also previously worked as a programming teacher both freelance and at Kovix, the latter also acting as a team lead in the training & onboarding area.
+- 📫 You can reach me through linkedin (down below).
 
 ___
 
@@ -40,6 +41,6 @@ ___
 - 🔉**Sound**: Noga 2176r 2.1
 - 🖥️🖥️ **Monitor**: Asus VA24EHE 24" (landscape) & Tedge 24" (portrait)
 - 🗄 **Case**: Coolermaster Masterbox Q300l
-- 💻 **Laptop**: Lenovo Ideapad 320 (with upgraded RAM and storage)
+- 💻 **Laptop**: Macbook Pro M1 16"
 - 🛠️ **Operating System 1**: Ubuntu 22.04
 - 🛠️ **Operating System 2**: Windows 10
