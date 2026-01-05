@@ -13,8 +13,6 @@ ___
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/leodelgadodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leodelgadodev" height="30" width="40" /></a>
-<a href="https://instagram.com/leodelgado.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leodelgado.jpg" height="30" width="40" /></a>
-<a href="https://discord.gg/leodelgadodev#9605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leodelgadodev#9605" height="30" width="40" /></a>
 </p>
 
 ___
@@ -24,23 +22,3 @@ ___
 
 
 ___
-
-## My Setup
-- 🧠 **CPU:** Ryzen 7 5800X
-- 🤖 **Motherboard**: Asus Prime b450m-a II
-- 🚀 **Graphics Card**: Nvidia GeForce RTX 3060
-- 🦾 **RAM**: Kingston Fury 2666mhz 8gb x 4
-- 💾**Storage 1**: Western Digital SN750 WDS500G3X0C 500GB
-- 💾**Storage 2**: Western Digital SSD Green 480gb
-- 💾**Storage 3**: Seagate 4TB (External)
-- 🧊 **Cooler**: Coolermaster 212
-- ⚡ **Power supply**: Sentey Xcore Power 630W
-- 🎧**Headphones/Mic**: HyperX Cloud Flight
-- ⌨️ **Keyboard**: Logitech G915 TKL
-- 🖱️ **Mouse**: Logitech MX Master 3
-- 🔉**Sound**: Noga 2176r 2.1
-- 🖥️🖥️ **Monitor**: Asus VA24EHE 24" (landscape) & Tedge 24" (portrait)
-- 🗄 **Case**: Coolermaster Masterbox Q300l
-- 💻 **Laptop**: Macbook Pro M1 16"
-- 🛠️ **Operating System 1**: Ubuntu 22.04
-- 🛠️ **Operating System 2**: Windows 10
